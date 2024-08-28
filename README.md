@@ -1,4 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&multiline=true&width=450&lines=Ashish+Nakrani;Full-Stack+%7C+UI%2FUX+%7C+Next+%7C+React+%7C+Vue+%7C+Node+%7C+Tailwind+CSS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&duration=3000&pause=1000&color=5899F7&center=true&multiline=true&width=1000&height=120&lines=Ashish+Nakrani;Full-Stack+%7C+UI%2FUX+%7C+Next+%7C+React+%7C+Vue+%7C+Node+%7C+Tailwind+CSS" alt="Typing SVG" /></a>
+
+<div align="right">
+ <a href="https://www.upwork.com/freelancers/ashishnakrani"><img src="https://i.ibb.co/zft1fDH/Screenshot-2.png" alt="Screenshot-2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
+</div>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFHDDEadut8ug/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704374165284?e=1730332800&v=beta&t=feWcEnvJwC6GPqFBjgW6G3NOTXajlAFDfCOM3aocVpE" alt="Image" width="100%" height=""/>
 
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">Little More About Me</h2>
